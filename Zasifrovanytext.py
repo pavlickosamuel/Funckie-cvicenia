@@ -1,3 +1,4 @@
+
 vstup = input("Zadaj text na zasifrovanie: ")
 kluc = input("Zadaj kluc: ")
 #novy kluc bude rovnaky ako povodny kluc, ale opakovany na celu dlzku vstupu
